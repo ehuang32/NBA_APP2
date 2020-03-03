@@ -1,0 +1,15 @@
+{
+  "name": "nba_app2",
+  "version": "1.0.0",
+  "description": "NBA App 2nd TRY 14/02",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
